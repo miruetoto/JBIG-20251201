@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "A1.html#hidden-figures",
+    "href": "A1.html#hidden-figures",
+    "title": "Chat GPT시대의 코딩공부",
+    "section": "Hidden Figures",
+    "text": "Hidden Figures\n\nFigure: Hidden Figures, An incredible & inspiring untold true story about three women at NASA who were instrumental in one of history’s greatest operations – the launch of astronaut John Glenn into orbit. [1]"
+  },
+  {
+    "objectID": "A1.html#주산",
+    "href": "A1.html#주산",
+    "title": "Chat GPT시대의 코딩공부",
+    "section": "주산",
+    "text": "주산\n\nFigure: 주판 (이미지출처: 구글 제미나이)"
+  },
+  {
+    "objectID": "A1.html#기술은-인재의-기준을-바꾼다",
+    "href": "A1.html#기술은-인재의-기준을-바꾼다",
+    "title": "Chat GPT시대의 코딩공부",
+    "section": "기술은 인재의 기준을 바꾼다",
+    "text": "기술은 인재의 기준을 바꾼다\n\n\n\n\n\n\n\n\n구분\n기술 등장 전 인재 정의\n기술 등장 후 인재 정의\n\n\n\n\n수학\n계산을 정확하고 빠르게 하는 사람\n계산도구(=컴퓨터)를 활용한 문제해결과 응용에 강한 사람\n\n\n프로그래밍\n코드를 직접 작성하고 디버깅할 수 있는 사람\nAI를 활용해 아이디어를 빠르게 구현·검증하고 창의적 문제 해결에 집중하는 사람1\n\n\n\n\n새로운 기술은 인재의 기준을 바꾼다. 계산기의 등장은 암산 능력을 최고라 여기던 시대를 끝냈다.\nGPT의 등장은 코더에게 어떤 의미일까?\n\n이라고 하는데 사실 저도 잘 모르겠습니다"
+  },
+  {
+    "objectID": "A1.html#코딩공부를-꼭-해야할까",
+    "href": "A1.html#코딩공부를-꼭-해야할까",
+    "title": "Chat GPT시대의 코딩공부",
+    "section": "코딩공부를 꼭 해야할까?",
+    "text": "코딩공부를 꼭 해야할까?\n\nFigure: 우리는 왼쪽으로 가야하는가? 아니면 오른쪽으로 가야하는가? (이미지출처: 구글 제미나이)"
+  },
+  {
+    "objectID": "A1.html#생성형-ai-혁명-타임라인",
+    "href": "A1.html#생성형-ai-혁명-타임라인",
+    "title": "Chat GPT시대의 코딩공부",
+    "section": "생성형 AI 혁명 타임라인",
+    "text": "생성형 AI 혁명 타임라인\n2022년: 혁명의 시작\n\n2022년 11월\n\nChatGPT 출시\n\n2022년 12월\n\nPerplexity 출시\n\n인용 정보를 제공 [3]"
+  },
+  {
+    "objectID": "A1.html#주요개념---rag",
+    "href": "A1.html#주요개념---rag",
+    "title": "Chat GPT시대의 코딩공부",
+    "section": "주요개념 - RAG",
+    "text": "주요개념 - RAG\n\nRetrieval-Augmented Generation, 줄여서 RAG는 AI 언어 모델이 외부 지식 기반을 참조하여 답변을 생성하는 구조\n전통적인 LLM은 학습된 데이터만을 기반으로 응답하지만 RAG는 (1) 질의에 관련된 정보를 외부 문서나 데이터베이스에서 가져오고 (2) 검색된 정보를 바탕으로 답변을 생성.\n효과: 정확도 향상 (외부사실에 기반하므로 환각문제 최소화), 최신성 확보 (학습 이후 업데이트된 정보도 실시간 반영가능), 특정분야 대응성 강화 (기업문서나 전문 도메인자료를 응답에 활용할 수 있음.)"
+  },
+  {
+    "objectID": "A1.html#주요개념---바이브코딩",
+    "href": "A1.html#주요개념---바이브코딩",
+    "title": "Chat GPT시대의 코딩공부",
+    "section": "주요개념 - 바이브코딩",
+    "text": "주요개념 - 바이브코딩\n\nAndrej Karpathy가 2025년 2월에 대중화한 인공 지능 지원 소프트웨어 개발 기술\n개발자가 프로젝트나 작업을 대규모 언어 모델 (LLM)에 설명하면, LLM은 프롬프트 를 기반으로 코드를 생성\n개발자는 코드를 검토하거나 수정하지 않고, 도구와 실행 결과만을 사용하여 코드를 평가하고 LLM에 개선 사항을 요청\n바이브 코딩 옹호자들은 이를 통해 아마추어 프로그래머 조차도 소프트웨어 엔지니어링에 필요한 광범위한 교육과 기술 없이 소프트웨어를 생산할 수 있다고 말함 Examples\nhttps://www.youtube.com/shorts/cOM_iR1wsQ8\nhttps://www.youtube.com/shorts/CFvpagumlv0"
+  },
+  {
+    "objectID": "A1.html#주요개념---mcp",
+    "href": "A1.html#주요개념---mcp",
+    "title": "Chat GPT시대의 코딩공부",
+    "section": "주요개념 - MCP",
+    "text": "주요개념 - MCP\n\nModel Context Protocol (MCP)은 AI 어시스턴트가 외부 데이터 소스와 도구에 안전하고 통제된 방식으로 접근할 수 있도록 하는 개방형 표준 프로토콜을 의미.\nMCP는 AI 모델과 외부 시스템 간의 표준화된 인터페이스를 제공. 이를 통해 AI는 파일 시스템, 데이터베이스, 웹 API, 비즈니스 시스템 등 다양한 컨텍스트 소스에 접근할 수 있음.\n\nExamples\nhttps://www.youtube.com/shorts/XPACEy2JlOk"
+  },
+  {
+    "objectID": "A1.html#주요개념---agentic-coding",
+    "href": "A1.html#주요개념---agentic-coding",
+    "title": "Chat GPT시대의 코딩공부",
+    "section": "주요개념 - Agentic Coding",
+    "text": "주요개념 - Agentic Coding\n\n에이전틱 코딩은 AI 에이전트가 자율적으로 코딩 작업을 수행하는 패러다임. 단순히 코드 생성을 넘어서, 계획 수립부터 실행, 테스트, 디버깅까지 전체 개발 과정을 AI가 주도적으로 처리.\nChatCPT에게는 답을 물어볼 수 있고, Claude Code에게는 일을 시킬 수 있다."
+  },
+  {
+    "objectID": "A1.html#오른쪽-길을-마치며",
+    "href": "A1.html#오른쪽-길을-마치며",
+    "title": "Chat GPT시대의 코딩공부",
+    "section": "오른쪽 길을 마치며",
+    "text": "오른쪽 길을 마치며\n\n가장 인기 있는 새로운 프로그래밍 언어는 영어 (Andrej Karpathy)"
+  },
+  {
+    "objectID": "A1.html#바이브코딩에-대한-비판",
+    "href": "A1.html#바이브코딩에-대한-비판",
+    "title": "Chat GPT시대의 코딩공부",
+    "section": "바이브코딩에 대한 비판",
+    "text": "바이브코딩에 대한 비판\n\nProgrammer Simon Willison (바이브코딩 옹호자) said:\n\n\n“If an LLM wrote every line of your code, but you’ve reviewed, tested, and understood it all, that’s not vibe coding in my book—that’s using an LLM as a typing assistant.”\n\n\n저의 생각: 아무리 바이브 코딩이 좋다고 해도 사이먼 윌리슨의 발언은 좀 과하지 않나??"
+  },
+  {
+    "objectID": "A1.html#francis-geng의-연구",
+    "href": "A1.html#francis-geng의-연구",
+    "title": "Chat GPT시대의 코딩공부",
+    "section": "Francis Geng의 연구",
+    "text": "Francis Geng의 연구\n\nFrancis Geng 연구팀은 “바이브 코딩(Vibe Coding)”이라는 새로운 프로그래밍 워크플로우에서 학생들이 AI 도구와 어떻게 상호작용하는지, 그리고 이러한 상호작용이 프로그래밍 경험 수준에 따라 어떻게 다른지 조사하였음 [33]\n실험설계: 연구에는 북미 연구 중심 대학의 두 컴퓨터 과학 강좌에서 모집된 총 19명의 학생이 참여했음: 초급 프로그래밍(CS1) 과정 학생 9명과 고급 소프트웨어 공학(SWE) 과정 학생 10명. 모든 참가자는 브라우저 기반 AI 통합 IDE인 Replit 플랫폼을 사용하여 개인 예산 관리 웹 애플리케이션을 구축하는 개방형 과제를 수행."
+  },
+  {
+    "objectID": "A1.html#왼쪽길을-지지하는-사람들의-의견",
+    "href": "A1.html#왼쪽길을-지지하는-사람들의-의견",
+    "title": "Chat GPT시대의 코딩공부",
+    "section": "왼쪽길을 지지하는 사람들의 의견",
+    "text": "왼쪽길을 지지하는 사람들의 의견\n\nAI시대 코딩에 필요한 역량을 요약하면 아래와 같음:\n\n테스트 & 디버깅\n풍부한 맥락의 프롬프팅: 기술적 정확성으로 문제를 설명하는 능력\n코드 이해력: AI 결과물을 이해하는 기술\n\n쉽게 말하면, 코딩 할 줄 알아야 한다는 의미."
+  },
+  {
+    "objectID": "A1.html#그래서-결론이-뭐냐고요",
+    "href": "A1.html#그래서-결론이-뭐냐고요",
+    "title": "Chat GPT시대의 코딩공부",
+    "section": "그래서 결론이 뭐냐고요?",
+    "text": "그래서 결론이 뭐냐고요?\n\n왼쪽길: 가장 인기 있는 새로운 프로그래밍 언어는 영어임. 코딩 배울 필요 없음.\n오른쪽길: 아직 시기상조임.\n제의견: 중립기어1\n\n사실 이럴때 늘 제가 하는말이 있죠.. 둘다 잘해야한다고"
+  },
+  {
+    "objectID": "A1.html#reference",
+    "href": "A1.html#reference",
+    "title": "Chat GPT시대의 코딩공부",
+    "section": "Reference",
+    "text": "Reference\n\n\n\n\n[1] “Hidden figures.” https://www.disneyplus.com/en-kr/browse/entity-bd9d3f07-aefe-4e45-b421-ad2a745c3bb0; Disney+, 2017.\n\n\n[2] 김정옥 and 김영옥, “주산의 역사와 우리나라 학교 주산교육 동향,” East Asian Mathematical Journal, vol. 33, no. 4, pp. 453–465, 2017.\n\n\n[3] “Perplexity ask: A game-changing search tool powered by AI.” https://towardsai.net/p/l/perplexity-ask-a-game-changing-search-tool-powered-by-ai.\n\n\n[4] “Google introduces bard, an AI chatbot.” https://www.nytimes.com/2023/02/06/technology/google-bard-ai-chatbot.html.\n\n\n[5] “구글 AI챗봇 ‘바드’ 오답에 시총 126조원 증발.” https://www.seoul.co.kr/news/international/2023/02/10/20230210021001.\n\n\n[6] “자존심 구긴 구글…새로 내놓은 챗봇AI 기대 못 미쳐 주가 폭락.” https://www.chosun.com/economy/tech_it/2023/02/09/MWRHL6L67READLOMI2HWOVDRPA/.\n\n\n[7] “GPT-4.” https://en.wikipedia.org/wiki/GPT-4.\n\n\n[8] “Claude (language model).” https://en.wikipedia.org/wiki/Claude_(language_model).\n\n\n[9] “How cursor serves billions of AI code completions every day.” https://blog.bytebytego.com/p/how-cursor-serves-billions-of-ai.\n\n\n[10] “DeepSeek.” https://en.wikipedia.org/wiki/DeepSeek.\n\n\n[11] CNN, “Google launches gemini, its most-advanced AI model yet, as it races to compete with ChatGPT.”\n\n\n[12] RetroFuturista, “OpenAI unveils sora: A revolutionary AI that transforms text into video.” https://retrofuturista.com/openai-sora/.\n\n\n[13] Google DeepMind, “Gemini 2.5: Our newest gemini model with thinking.” https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/.\n\n\n[14] “GPT-4o.” https://en.wikipedia.org/wiki/GPT-4o.\n\n\n[15] “ChatGPT search.” https://en.wikipedia.org/wiki/ChatGPT_Search.\n\n\n[16] “OpenAI o1.” https://en.wikipedia.org/wiki/OpenAI_o1.\n\n\n[17] “Codeium introduces the windsurf editor, enabling developers to work with ‘AI flows’.” https://www.webwire.com/ViewPressRel.asp?aId=329485.\n\n\n[18] Anthropic, “Model context protocol (MCP) open-source release.” https://www.anthropic.com/news/model-context-protocol.\n\n\n[19] V. capitalist Marc Andreessen / Fortune, “Marc andreessen warns DeepSeek is ‘AI’s sputnik moment’,” Fortune, Jan. 2025.\n\n\n[20] D. Guo et al., “Deepseek-r1: Incentivizing reasoning capability in llms via reinforcement learning,” arXiv preprint arXiv:2501.12948, 2025.\n\n\n[21] DeepSeek, “DeepSeek-R1 (hugging face model hub).” https://huggingface.co/deepseek-ai/DeepSeek-R1.\n\n\n[22] K. Wiggers, “DeepSeek claims its ’reasoning’ model beats OpenAI’s o1 on certain benchmarks,” TechCrunch, Jan. 2025.\n\n\n[23] J. S. / Markets Insider, “Tech stock sell-off: Nvidia, microsoft, others hit by DeepSeek debut,” Markets Insider (Business Insider), Jan. 2025.\n\n\n[24] “NotebookLM.” https://en.wikipedia.org/wiki/NotebookLM.\n\n\n[25] 김민정, “‘챗GPT, 거짓말해서 안 써요’ 대학생 쓰는 ‘노트북LM’ 뭐길래.” 중앙일보 (요약 제공 via ZUM News), Jun. 10, 2025.\n\n\n[26] Anthropic, “Claude code research preview.” https://www.anthropic.com/news/claude-3-7-sonnet.\n\n\n[27] “Vibe coding.” https://en.wikipedia.org/wiki/Vibe_coding.\n\n\n[28] Anthropic, “Claude code: Deep coding at terminal velocity.” https://www.anthropic.com/claude-code.\n\n\n[29] “Google’s gemini CLI: What is it and why it matters?” Science Insight.\n\n\n[30] P. Team, “Introducing comet: Browse at the speed of thought.” https://www.perplexity.ai/hub/blog/introducing-comet.\n\n\n[31] J. 이종원 (Lee, “이종원의 디자인 인사이트.” https://idesignexp.com/main, 2025.\n\n\n[32] R. Sapkota, K. I. Roumeliotis, and M. Karkee, “Vibe coding vs. Agentic coding: Fundamentals and practical implications of agentic ai,” arXiv preprint arXiv:2505.19443, 2025.\n\n\n[33] F. Geng et al., “Exploring student-AI interactions in vibe coding,” arXiv preprint arXiv:2507.22614, 2025."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "JBIG-20251201",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
