@@ -1,5 +1,5 @@
 ---
-title: "Chat GPT시대의 코딩공부"
+title: "ChatGPT시대의 코딩공부"
 bibliography: ref.bib
 author: "최규빈"
 subtitle: ""
