@@ -4,21 +4,9 @@ project:
 
 website:
   title: "JBIG-20251201"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - href: A1.qmd
-        text: Slides
-      - about.qmd
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
     toc: true
-
-
-
